@@ -1,0 +1,93 @@
+/* Home.css */
+
+.align-items-center {
+    align-items: center;
+  }
+  
+  .gradient-background {
+    background: linear-gradient(to bottom, #ffffff, #ffffcc, #ffffcc);
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem;
+  }
+  
+  .d-flex {
+    display: flex;
+  }
+  
+  .justify-content-center {
+    justify-content: center;
+  }
+  
+  .float-lg-right {
+    float: right;
+  }
+  
+  .bg-danger {
+    background-color: red;
+  }
+  
+  .py-3 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .float-lg-right {
+    float: right;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+
+  .text-left {
+    text-align: left;
+  }
+  
+  .text-left p {
+    margin-left: 10px; 
+    text-indent: -15px;
+  }
+  
+  .text-left p:before {
+    content: "\2022"; 
+    color: rgb(0, 0, 0); 
+    display: inline-block;
+    width: 0.1em;
+    margin-left: -20px; 
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem;
+  }
+  
