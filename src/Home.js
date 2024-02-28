@@ -10,7 +10,7 @@ import './Home.css';
 
 const Home = () => {
   return (
-    <div className="gradient-background"> 
+    <div className="gradient-background">
       <Container fluid>
         <Row className="align-items-center">
           <Col xs={12} className="text-center">
@@ -27,7 +27,7 @@ const Home = () => {
               <p>C.R.I.'s energy efficient products are well recognized by various Government Institutions, as trustworthy products for various projects across the globe to save energy.</p>
               <p>C.R.I. is the highest contributor in the country for the projects of EESL (Energy Efficiency Services Limited) to replace the old inefficient pumps with 5 Star rated energy efficient smart pumps with IoT enabled control panel.</p>
             </div>
-            <img src={two} alt="Image Below Text" className="img-fluid float-lg-right" />
+            <img src={two} alt="Award" className="img-fluid float-lg-right" />
             <div className="text-left">
               <p>Government of India has awarded the <b>"National Energy Conservation Award 2018".</b> Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.</p>
             </div>
