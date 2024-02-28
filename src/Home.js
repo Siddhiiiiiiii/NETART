@@ -41,7 +41,7 @@ const Home = () => {
           </Row>
           <Row className="mt-4">
             <Col xs={12}>
-              <img src={three} alt="New Image" className="img-fluid" />
+            <img src={three} alt="Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors" className="img-fluid" />
               <p>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors </p>
             </Col>
           </Row>
