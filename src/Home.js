@@ -10,7 +10,7 @@ import './Home.css';
 
 const Home = () => {
   return (
-    <div className="gradient-background">
+    <div className="gradient-background"> 
       <Container fluid>
         <Row className="align-items-center">
           <Col xs={12} className="text-center">
